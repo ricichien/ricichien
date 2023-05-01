@@ -20,9 +20,7 @@ I describe myself as someone with strong communication skills and with a great d
 
 ### Learning
 
-Recently, I have been studying more about languages, mainly Italian and Japanese. 
-
-Regarding technologies, I am developing some Apps using external APIs and deeping more my knowledge in Front-End stacks (React, NextJS, NodeJs, Tailwind, etc...)
+Since I am already a Portuguese native speaker and fluent at English as my second language, the mainly languages I have been studying now are Italian and Japanese. Regarding technologies, I am focusing in the development of Websites using external APIs and deeping more my knowledge in Front-End stacks (React, NextJS, NodeJs, Tailwind, etc.)
 
 ### Social Medias
 
