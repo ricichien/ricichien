@@ -25,7 +25,6 @@ Since I am already a Portuguese native speaker and fluent at English as my secon
 ### Social Medias
 
 Reach me via LinkedIn: http://linkedin.com/in/riciere-marcone
-My Instagram is @ricichien
 
 <!---
 ricichien/ricichien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
