@@ -22,6 +22,8 @@ I describe myself as someone with strong communication skills and with a great d
 
 Since I am already a Portuguese native speaker and fluent at English as my second language, the mainly languages I have been studying now are Italian and Japanese. Regarding technologies, I am focusing in the development of Websites using external APIs and deeping more my knowledge in Front-End stacks (React, NextJS, NodeJs, Tailwind, etc.)
 
+---
+
 ### Social Medias
 * [LinkedIn](http://linkedin.com/in/riciere-marcone)
 
@@ -29,5 +31,3 @@ Since I am already a Portuguese native speaker and fluent at English as my secon
 ricichien/ricichien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
----
