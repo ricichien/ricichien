@@ -1,4 +1,8 @@
-### Introduction
+![image](https://user-images.githubusercontent.com/85197053/236462311-534c2bec-b258-4636-8a65-bf7711ef416a.png)
+
+---
+
+## Riciere Marcone
 
 Hi, I’m Riciere Marcone and I currently live in Brazil. I have a Bachelor of Systems Analysis & Development from the university of technology, Fatec Ourinhos where I was taught to use not only programming languages as Java | C++ but also had basics from Python | PHP. We had access into working into projects with HTML | CSS in the academic environment as well.
 
