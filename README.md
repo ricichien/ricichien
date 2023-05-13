@@ -1,4 +1,4 @@
-![image](https://github.com/ricichien/ricichien/assets/85197053/add100b4-42c3-48b6-a6aa-23792fca4e42)
+![image](https://github.com/ricichien/ricichien/assets/85197053/0e942851-a7cd-4158-adb5-b842d8f32061)
 
 ---
 
