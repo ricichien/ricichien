@@ -6,21 +6,23 @@
 
 Hi, I’m Riciere Marcone and I currently live in Brazil. I have a Bachelor of Systems Analysis & Development from the university of technology, Fatec Ourinhos where I was taught to use not only programming languages as Java | C++ but also had basics from Python | PHP. We had access into working into projects with HTML | CSS in the academic environment as well.
 
+I have also developed a mobile application with React Native, including the preparation of all necessary documentation. This project was completed as part of my internship and final course project from 2020 to 2021.
+
 ### Work Experience
 
-In one of my latest experiences as a developer, I was responsable for managing an Enterprise Resource Planning (ERP) project based on Model-View-Controller (MVC) design pattern. My main task was to work at the maintenance of the project, creating pages and functionalities. This project was very important for the company and it was not only responsible to introduce me to VB.NET | TypeScript | SQL and Angular components, but also, to learn even more when dealing with Database tools along with SCRUM methodologies.
+In my role as a Full-Stack Web Developer, I managed an Enterprise Resource Planning (ERP) project based on the Model-View-Controller (MVC) design pattern. I created and converted various screens and functionalities for data registration and management of different departments, ensuring they followed the established prototypes using technologies such as TypeScript and Angular. Additionally, I created, maintained, and tested APIs (Swagger) and their endpoints. I also developed controllers using VB.NET, managed the MySQL database, and performed messaging tests using RabbitMQ.
 
-In my previous role, I was the second React Native Mobile App developer in the team. I was responsible for the transition of the main Letz's mobile apps into the new version using React Native, TypeScript and JavaScript Libraries such as Styled-Components, Jest, Amplitude, Formik, React Native, i18next and more.
+As a Mobile Front-End Developer, I successfully transitioned 15% of both main Letz mobile applications to their versions using the React framework (React Native), REST APIs, TypeScript, and JavaScript libraries (Styled-Components, Jest, Amplitude, Formik, i18next, and more).
 
-The frameworks played a major role in the development and the most important ones used were the Amplitude, Jest and i18next. The Amplitude SDKs was used to send event data from the apps into Amplitude as a tool to validate user interaction. The Jest framework was used as the main testing framework for Unit Tests which was based on the Given-When-Then methodology. The i18next frameworks, was the main solution to localize the mobile apps.
+I used the Linux operating system, and my development cycle consisted of reusing components for versatility or creating new ones from scratch, code versioning for control, and following the SCRUM methodology for productivity. I participated in daily meetings (dailies), sprint planning (planning poker), retrospectives, and monthly feedback sessions (1on1).
 
-The Operational System used was Linux and the development cycle consisted in reusing components for versatility or creating new ones from the beginning, code versioning for control and SCRUM methodology for productivity, conducting daily meetings (dailies), sprint planning (planning poker), retrospectives and monthly feedbacks (1on1).
+The frameworks played an important role in the development, and the most important ones used were Amplitude, Jest, and i18next. Amplitude SDKs were used to send event data from the applications to Amplitude as a tool to validate user interaction. Amplitude helps track user behavior, measure conversion rates, and analyze user engagement. The Jest framework served as the main testing framework for unit tests, following the Given-When-Then methodology. Jest provides a testing platform with a rich set of features and assertions to write reliable and efficient unit tests.
+
+The i18next framework was the primary solution for localizing the mobile applications. It provided a comprehensive localization and internationalization solution, allowing for easy translation and adaptation of the apps' content for different languages and regions. These frameworks played vital roles in ensuring the functionality, quality, and user experience of the applications, contributing to the success of the development process.
 
 ### About Me
 
-I believe that the process of learning a language helps to learn part of the region culture, moreover, I consider it is very important step that leads us to complement and improve our perspective, increase the reach for the access to new books and source materials for further gain of even more knowledge, etc.
-
-I describe myself as someone with strong communication skills and with a great determination into creative solutions. Always open minded, dedicated at learning additional technologies and coding languages.
+I possess strong interpersonal, analytical, and communication skills, with a strong focus on learning and a keen interest in new technologies and best development practices. I highly value relationships, teamwork, and have good user interface design skills. I recognize the importance of being able to contribute with a second language in the technology field, as it plays a significant role in studies, research, and career advancement.
 
 ### Learning
 
